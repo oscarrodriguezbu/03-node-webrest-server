@@ -17,7 +17,7 @@ Se trabaja con un servidor rest y se crear nuestro API.
 
 4. Abrir http://localhost:3000
 
-# Screnshoots:
+# Screnshots:
 
 ![alt text](public/assets/screenshoots/Captura%20de%20pantalla%202025-08-30%20211852.png)
 
